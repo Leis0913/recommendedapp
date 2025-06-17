@@ -89,4 +89,4 @@ Youtube 동영상
 
 
 
-#git에 업로드되어 있는 gptapi는 현재 존재하지 않는 api입니다.
+# git에 업로드되어 있는 gptapi는 현재 존재하지 않는 api입니다.
