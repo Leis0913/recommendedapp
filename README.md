@@ -39,5 +39,42 @@
 2.3 결과물
 
  * 메인 화면
+![Image](https://github.com/user-attachments/assets/efb89462-ded7-430e-ad48-4c0209c8959e)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu.PNG)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu_2.PNG)
 
-   
+* 지도 화면
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/map.PNG)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/find_in_map.PNG)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/found_in_map.PNG)
+
+* 룰렛 화면
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/roulette.PNG)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/roulette_make_input.PNG)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/roulette_setting.PNG)
+![Image](https://github.com/Leis0913/recommendedapp/blob/main/roulette_finish.PNG)
+
+
+2.4 기대효과
+ * 다양한 요인을 고려하여 식사 메뉴를 추천해줌으로써 사용자의 선택 부담을 출일 수 있다.
+ * 사용자는 기분만 선택하면 날씨, 위치, 시간대 등의 정보를 알아서 입력 받아 빠르고 효율적인 식사 결정이 가능하다.
+ * 추천된 메뉴와 연동된 주변 식당 정보까지 확인할 수 있어 사용자 편의성이 증가한다.
+
+2.5 관련기술
+| 구분               | 설명                                    |
+| ------------------ | --------------------------------------- |
+| MapKit             | Apple에서 제공하는 지도로 Apple의 다양한 플랫폼에서 지도를 사용하고 통합할 수 있도록 설계된 프레임워크이다.|
+| OpenAI API         | 사용자의 기분, 날씨, 시간대 등의 정보를 바탕으로 자연어 처리 AI에게 적절한 메뉴를 추천받는데 사용된다.     |
+| OpenWeatherMap API | 사용자의 현재 위치를 기반으로 실시간 날씨 정보를 가져 오기 위해 사용되며, 온도와 날씨 설명 등을 메뉴 추천 조건에 반영한다|
+
+
+2.6 개발도구
+| 구분                | 설명                                     |
+| ------------------- | ---------------------------------------- |
+| Xcode               | 	애플에서 제공하는 통합 개발 환경(IDE)으로, iOS 앱 개발을 위한 필수 도구이다. Swift 코드 작성, UI 설계, 시뮬레이터 테스트 등을 지원하며, 본 프로젝트 전반의 개발 환경으로 사용되었다.|
+| Swift               | 애플의 공식 프로그래밍 언어로, iOS 앱 개발에 최적화되어 있다. 가독성과 안정성이 높으며, 본 프로젝트의 전체 로직을 구현하는 데 사용되었다. |
+
+2.7 발표영상
+
+Youtube 동영상
+
