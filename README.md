@@ -33,3 +33,11 @@
 
 2.2 프로젝트 구조
 
+![프로젝트 구조](https://github.com/Leis0913/recommendedapp/blob/main/recommendedapp.PNG)
+
+
+2.3 결과물
+
+ * 메인 화면
+
+   
