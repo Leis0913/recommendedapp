@@ -89,4 +89,4 @@ Youtube 동영상
 
 
 
-# 코드에 있는 OpenAI api는 존재하지 않는 api입니다.
+# 코드에 있는 OpenAI api key는 존재하지 않는 api key입니다.
