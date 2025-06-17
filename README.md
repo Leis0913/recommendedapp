@@ -41,25 +41,25 @@
  * 메인 화면
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/efb89462-ded7-430e-ad48-4c0209c8959e" width="150">
- <img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu.PNG" width="150">
+ <img src="https://github.com/user-attachments/assets/efb89462-ded7-430e-ad48-4c0209c8959e" width="150" style="margin-right: 10px;">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu.PNG" width="150" style="margin-right: 10px;">
  <img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu_2.PNG" width="150">
 </p>
 
  * 지도 화면
    
 <p align="center">
- <img src="https://github.com/Leis0913/recommendedapp/blob/main/map.PNG" width="150">
- <img src="https://github.com/Leis0913/recommendedapp/blob/main/find_in_map.PNG" width="150">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/map.PNG" width="150" style="margin-right: 10px;">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/find_in_map.PNG" width="150" style="margin-right: 10px;">
  <img src="https://github.com/Leis0913/recommendedapp/blob/main/found_in_map.PNG" width="150">
 </p>
 
  * 룰렛 화면
  
  <p align="center">
- <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette.PNG" width="150">
- <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette_make_input.PNG" width="150">
- <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette_setting.PNG" width="150">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette.PNG" width="150" style="margin-right: 10px;">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette_make_input.PNG" width="150" style="margin-right: 10px;">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette_setting.PNG" width="150" style="margin-right: 10px;">
  <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette_finish.PNG" width="150">
  </p>
 
