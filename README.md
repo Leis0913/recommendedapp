@@ -39,18 +39,19 @@
 2.3 결과물
 
  * 메인 화면
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/efb89462-ded7-430e-ad48-4c0209c8959e" width="300">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu.PNG" width="300">
+ <img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu_2.PNG" width="300">
+</p>
 
-<img src="https://github.com/user-attachments/assets/efb89462-ded7-430e-ad48-4c0209c8959e" width="300">
-<img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu.PNG" width="300">
-<img src="https://github.com/Leis0913/recommendedapp/blob/main/recommended_menu_2.PNG" width="300">
-
-<p><strong>지도 화면</strong></p>
+ * 지도 화면
 
 <img src="https://github.com/Leis0913/recommendedapp/blob/main/map.PNG" width="300">
 <img src="https://github.com/Leis0913/recommendedapp/blob/main/find_in_map.PNG" width="300">
 <img src="https://github.com/Leis0913/recommendedapp/blob/main/found_in_map.PNG" width="300">
 
-<p><strong>룰렛 화면</strong></p>
+ * 룰렛 화면
 
 <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette.PNG" width="300">
 <img src="https://github.com/Leis0913/recommendedapp/blob/main/roulette_make_input.PNG" width="300">
