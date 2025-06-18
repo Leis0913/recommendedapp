@@ -87,6 +87,6 @@
 
 Youtube 동영상
 
-
+[![Video Label](http://img.youtube.com/vi/zPzaAxQ1wZc/0.jpg](https://youtu.be/zPzaAxQ1wZc)
 
 # 코드에 있는 OpenAI api key는 존재하지 않는 api key입니다.
